@@ -1,0 +1,4 @@
+# PRIVATE FILES #
+*.log
+/ignore/*
+
